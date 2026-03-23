@@ -3,13 +3,13 @@
 #include<string.h>
 struct book
 {
-    char title[50];
+    char name[50];
     char author[50];
     int year;
 };
 int main()
 {
-    struct book library[100];
+    struct book_library[100];
     int n, i;
     char search_author[50];
 
@@ -18,7 +18,7 @@ int main()
 
     for(i = 0; i < n; i++)
     {
-        printf("Enter title of book %d: ", i + 1);
+        printf("Enter name of book %d: ", i + 1);
         scanf("%s", library[i].title);
         printf("Enter author of book %d: ", i + 1);
         scanf("%s", library[i].author);
