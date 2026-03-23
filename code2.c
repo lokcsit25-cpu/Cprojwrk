@@ -1,4 +1,4 @@
-// to dissplay  books by specific author
+// to dissplay  books by specific author for lab report
 #include<stdio.h>
 #include<string.h>
 struct book
