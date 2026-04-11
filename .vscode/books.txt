@@ -1,0 +1,120 @@
+Computer Fundamentals
+ 06-02-2026
+ Anita Goel
+ Computer Science
+ 600
+Digital Logic And Computer Design
+ 29-12-2025
+ M. Morris Mano
+ Engineering
+ 800
+Programming with C
+ 01-02-2026
+ Byron Gottrified
+ Programming
+ 1000
+The DevOps Handbook
+ 08-10-2024
+ Gene Kim
+ DevOps
+ 3500
+Clean Code
+ 18-10-2025
+ Robert C. Martin
+ Programming
+ 2000
+Operating System
+ 30-12-2025
+ Sushila Lekhak
+ OS
+ 3000
+Database System Concepts
+ 20-02-2026
+ Ross Wilson
+ DBMS
+ 2500
+Computer Networking
+ 13-08-2025
+ Kurose & Rose
+ Networking
+ 2000
+Core Java Fundamentals
+ 02-03-2026
+ Cay S. Horstmann
+ Programming
+ 3500
+Artificial Intelligence
+ 08-09-2025
+ Russell & Norvig
+ AI
+ 3000
+The Pragmatic Programmer
+ 07-11-2024
+ Thomas & Hunt
+ Software Engineering
+ 4500
+Software Architecture
+ 29-03-2026
+ Neal Ford
+ Architecture
+ 5000
+Introduction to Algorithms
+ 19-01-2026
+ Cormen et al
+ Computer Science
+ 1500
+Marketing Management
+ 22-01-2026
+ Kotler & Keller
+ Marketing
+ 2000
+Organizational Behaviour
+ 30-12-2025
+ Robbins & Judge
+ HR Management
+ 2050
+The 7 Habits of Highly Effective People
+ 02-05-2026
+ Stephen R. Covey
+ Self Development
+ 1000
+Good to Great
+ 29-01-2026
+ Jim Collins
+ Strategy
+ 1500
+The Learn Startup
+ 10-10-2025
+ Eric Ries
+ Entrepreneurship
+ 2000
+Financial Accounting
+ 25-12-2024
+ N. Ramachandran
+ Finance
+ 1800
+Fundamental of Physics
+ 01-06-2026
+ Halliday & Walker
+ General Physics
+ 2000
+Principles of Corporate Finance
+ 28-04-2026
+ Brealey & Meyers
+ Finance
+ 18000
+Physics Lab Manual
+ 02-09-2024
+ Prashant K.C
+ Physics
+ 200
+Introduction to Statistics
+ 09-10-2025
+ Chudamani Joshi
+ Maths
+ 300
+Atomic Habits
+ 03-01-2026
+ James Clear
+ Self Improvement
+ 850
