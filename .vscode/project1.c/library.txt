@@ -1,24 +1,22 @@
-Computer Fundamentals	Anita Goel	Computer Science	20-02-2026	600
-Digital Logic	Morris Mano	Engineering	12-12-2025	1000
-Programming with C	Byron Gottrified	Programming	30-03-2026	2000
-The Devops Handbook	Gene Kim	DevOps	28-09-2024	1920
-Clean Code	Suhani Shah	Programming	12-03-2026	900
-Operating System	Ross Will	OS	20-03-2024	2900
-Database System Concepts	Kurose	DBMS	19-07-2024	1500
-Computer Networking	James Potter	Networking	13-09-2023	5000
-Core Java Fundamentals	Cay Horstmann	Programming	30-02-2026	4000
-Artificial Intelligence	Norvig	AI	24-09-2024	3500
-The Pragmatic Programmer	Thomas & Hunt	S\W Engineering	30-03-2026	4070
-Software Architecture	Neal Ford	Architecture	07-11-2025	5000
-Introduction to Algorithms	Commen et al	Computer Science	18-03-2026	1000
-Marketing Management	Kofler	Marketing	22-01-2026	2000
-Organizational Behaviour	Robbins & Judge	HR Management	30-12-2023	3000
-The 7 Healthy Habits	Stephen Covey	Self Improvement	20-04-2026	800
-Good to Great	Jim Collins	Strategy	29-01-2026	3900
-The Learn Startup	Eric Ries 	Entrepreneurship	13-04-2026	3200
-Financial Accounting	N. Ramachadra	Finance	20-03-2025	2000
-Physics Lab Manual	Prashant Kirad	Physics	29-04-2026	150
-Principles of Corporate Finance	Breakey & Meyers	Finance	20-02-2026	18000
-Fundamental of Physics	Halliday	Physics	12-01-2026	2080
-Introduction to Statistics	Chudamani Sharma	Maths	23-06-2025	500
-Atomic Habits	James Clear	Self Improvement	03-01-2026	850
+Book Name		Author Name	Issued Date	Category		Price
+-------------------------------------------------------------------------------------
+Computer Fundamentals	Anita Goel	20-02-2026	CS	600
+Digital Logic	Morris Mano	12-12-2025	Engineering	800
+Programming with C	Byron Gotrified	03-02-2026	Programming	990
+The DevOps Handbook	Gene Kim	22-10-2025	DevOps	3000
+Clean Code	Robert Martin	28-03-2025	Programming	2000
+Operating System	Ross Wilson	03-09-2025	OS	1000
+Database System Concepts	Suhani Shah	30--1--2026	DBMS	2500
+Computer Networking	Kurose & Rose	13-02-2026	Networking	2000
+Core Java Fundamentals	Cay Horstmann	08-09-2025	Programming	2500
+Artificial Intelligence	Russel & Norvig	08-12-2025	AI	3000
+The Pragmatic Programmer	Thomas & Hunt	28-03-2026	Engineering	3050
+Software Architecture	Neal Ford	29-03-2026	Architecture	5000
+Introduction to Algorithms	Cormen et al	19-01-2026	CS	1500
+Marketing Management	Kofler & Keller	22-01-2026	Marketing	2000
+Organizational Behaviour	Robbins & Judge	30-12-2025	Management	2050
+Good to Great	Jim Collins	29-01-2026	Marketing	1500
+The Learn Startup	Eric Ries	10-10-2025	Entrepreneurship	2000
+Financial Accounting	Halliday & Walker	25-11-2025	Finance	2300
+Principle of Finance	Tim Breadley	28-04-2026	Finance	18000
+Atomic Habits	James Clear	03-01-2026	Self Improvement	850

@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/L E N O V O/OneDrive/Desktop/project work of C/.vscode/project1.c",
-      "program": "c:/Users/L E N O V O/OneDrive/Desktop/project work of C/build/Debug/outDebug.exe",
+      "program": "c:/Users/L E N O V O/OneDrive/Desktop/project work of C/.vscode/project1.c/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
