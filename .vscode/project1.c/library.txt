@@ -6,7 +6,7 @@ Programming with C	Byron Gotrified	03-02-2026	Programming	990
 The DevOps Handbook	Gene Kim	22-10-2025	DevOps	3000
 Clean Code	Robert Martin	28-03-2025	Programming	2000
 Operating System	Ross Wilson	03-09-2025	OS	1000
-Database System Concepts	Suhani Shah	30--1--2026	DBMS	2500
+Database System Concepts	Suhani Shah	30-1-2026	DBMS	2500
 Computer Networking	Kurose & Rose	13-02-2026	Networking	2000
 Core Java Fundamentals	Cay Horstmann	08-09-2025	Programming	2500
 Artificial Intelligence	Russel & Norvig	08-12-2025	AI	3000
