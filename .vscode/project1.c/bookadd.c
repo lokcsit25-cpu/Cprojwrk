@@ -22,16 +22,13 @@ void addBook(FILE *fp) {
     struct book lib;
 
     printf("Enter book name: ");
-    fgets(lib.name.book_name, sizeof(lib.name.book_name), stdin);
-    lib.name.book_name[strcspn(lib.name.book_name, "\n")] = 0;
+    gets(lib.name.book_name);
 
     printf("Enter author name: ");
-    fgets(lib.name.author_name, sizeof(lib.name.author_name), stdin);
-    lib.name.author_name[strcspn(lib.name.author_name, "\n")] = 0;
+    gets(lib.name.author_name);
 
     printf("Enter category: ");
-    fgets(lib.category, sizeof(lib.category), stdin);
-    lib.category[strcspn(lib.category, "\n")] = 0;
+    gets(lib.category);
 
     printf("Enter issued date (DD MM YYYY): ");
     scanf("%d %d %d", &lib.date.day, &lib.date.month, &lib.date.year);

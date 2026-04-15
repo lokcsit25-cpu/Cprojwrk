@@ -1,5 +1,5 @@
 Book Name		Author Name	Issued Date	Category		Price
--------------------------------------------------------------------------------------
+-------------------------------------------------------------------------
 Computer Fundamentals	Anita Goel	20-02-2026	CS	600
 Digital Logic	Morris Mano	12-12-2025	Engineering	800
 Programming with C	Byron Gotrified	03-02-2026	Programming	990
